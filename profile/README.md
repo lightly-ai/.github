@@ -1,16 +1,15 @@
-![LightlySSL self-supervised learning Logo](https://github.com/lightly-ai/lightly/blob/master/docs/logos/lightly_logo_crop.png?raw=true)
+## Big News (October 21th, 2025) 🚀
 
-
-## Big News (April 15th, 2025) 🚀
-
-<a href="https://github.com/lightly-ai/lightly-train">
+<a href="https://github.com/lightly-ai/lightly-studio">
 <p align="center">
-<img src="https://github.com/lightly-ai/lightly-train/blob/main/docs/source/_static/lightly_train_light.svg" alt="LightlyTrain" width="300"/>
+
+<img width="363" height="64" alt="lightlystudio_badge_horizontal_light (1)" src="https://github.com/user-attachments/assets/5e1f08ea-99de-4f66-8df1-597b32bf2cd4" />
+
 </p>
 </a>
 
-We are excited to announce that you can now leverage SSL and distillation pretraining in just a few lines of code! We've worked hard to make self-supervised learning even more accessible with our new project [LightlyTrain](https://github.com/lightly-ai/lightly-train). Head over there to get started and supercharge your models! ⚡️
+We are excited to introduce [LightlyStudio](https://github.com/lightly-ai/lightly-studio): The Unified Data Platform for Multimodal ML ⚡️
 
-
+LightlyStudio unifies curation, labeling, and embeddings in one fast, developer-friendly platform built for modern computer vision and multimodal ML. It’s the next evolution of LightlyOne, rebuilt from the ground up.
 
 [![Discord](https://img.shields.io/discord/752876370337726585?logo=discord&logoColor=white&label=discord&color=7289da)](https://discord.gg/xvNJW94)
